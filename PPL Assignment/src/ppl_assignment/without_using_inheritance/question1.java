@@ -28,7 +28,7 @@ public class question1 {
         allocate all = new allocate();
         all.create_objs();
         FileReader fr = new FileReader(file); 
-        char [] a = new char[50000];
+        char [] a = new char[5000];
         fr.read(a);
         for(char c : a)
            System.out.print(c);
