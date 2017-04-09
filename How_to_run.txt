@@ -1,1 +1,5 @@
+After build type,
 
+    java -cp . main
+    
+After this just enter the corresponding question number which needs to be tested.
