@@ -9,18 +9,24 @@
         
 #Documentation
 
-        Documentation was done using Javadoc on NetBeans IDE. Documentation is in: PPL Assignment/Documentation/index.html
+        Documentation done using Javadoc on NetBeans IDE. Documentation is in: PPL Assignment/Documentation/index.html
+        
+#Class Daigrams
+        
+        Class daigrams were generated using easeUml Netbeans plugin.
+        Class daigrams for the two cases(with and without inheritance are given in PPL assignmennt folder.
 
 #Contents:
 
-        main.java ---> driver of entire project
-        ppl_assignment.without_using_inheritance ---> package for question1 and question2
-        ppl_assignment.using_inheritance ---> package for question3 to question10
+        1) main.java ---> driver of entire project
+        2) ppl_assignment.without_using_inheritance ---> package for question1 and question2
+        3) ppl_assignment.using_inheritance ---> package for question3 to question10
 
 #Build-Commands(For Terminal):
 
         Change current directory to PPL Assignment/src, then type
         javac -cp . main.java
+        Note : building main.java will build other classes itself.
         
 #Run-Commands(For Terminal):
 
