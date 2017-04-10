@@ -1,3 +1,5 @@
 Change current directory to PPL Assignment/src, then type
 
     javac -cp . main.java
+    
+Note : building main.java will build other classes itself
