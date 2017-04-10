@@ -3,3 +3,4 @@ Change current directory to PPL Assignment/src, then type
     javac -cp . main.java
     
 Note : building main.java will build other classes itself
+Note : The project was done on Windows 7 platform using Netbeans(8.0) IDE.
